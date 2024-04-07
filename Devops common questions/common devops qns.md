@@ -9,7 +9,7 @@
    - The key principles of DevOps include collaboration, automation, continuous integration, continuous delivery/deployment, infrastructure as code (IaC), and monitoring and feedback.
 
 3. **How does DevOps differ from Agile?**
-   - While Agile focuses on iterative development and close collaboration between cross-functional teams, DevOps extends these principles by including the operations aspect and emphasizing automation and continuous delivery.
+   - Agile is a philosophy about how to develop and deliver software, while DevOps describes how to continuously deploy code through the use of modern tools and automated processes
 
 4. **Describe the benefits of implementing DevOps in an organization.**
    - Benefits of DevOps include faster time to market, increased efficiency, improved quality and reliability of software releases, better collaboration between teams, and enhanced customer satisfaction.
