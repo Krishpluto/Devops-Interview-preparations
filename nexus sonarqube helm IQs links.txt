@@ -1,0 +1,10 @@
+NEXUS: https://www.devopsschool.com/blog/top-50-nexus-interview-questions-and-answers/
+
+SONARQUBE: https://kkjavatutorials.com/sonarqube-interview-questions/
+
+Helm: https://www.devopsschool.com/blog/top-50-helm-interview-questions-and-answers/
+
+
+infra - support (upgrade)
+
+application - creating pipeline
