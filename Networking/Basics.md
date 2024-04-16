@@ -3,6 +3,7 @@
 
 2. **What is Subnets?**
     This division helps in efficient utilization of IP addresses and also aids in controlling network traffic. When you're dealing with IP addresses, particularly in IPv4, you're working with a limited pool of addresses. Subnetting allows you to carve out smaller chunks of this pool for different parts of your network.
+    
     ![alt text](image.png)
     In the above table No. of networks for class A should be 127. (Network ID with all 0 s is not considered)
 
