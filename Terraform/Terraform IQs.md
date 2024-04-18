@@ -1,8 +1,13 @@
 **1. What is Terraform, and how does it differ from other infrastructure as code tools?**
 ![alt text](image.png)
+- Terraform is a open source infrastructure as code tool created by HashiCorp.
+- It allows users to define and provision infrastructure using declarative configuration language.
+- Unlike other tools, Terraform supports multiple cloud providers and on-premises infrastructure, offering a unified approach to manage diverse environments.
 
 **2.Explain the concept of "declarative syntax" in Terraform and how it contributes to infrastructure management**
 ![alt text](image-1.png)
+- *Declarative syntax* in Terraform means describing the desired state of infrastructure without specifying the step-by-step process to achieve it.
+- Terraform interprets the configuration and determines the actions required to bring the actual state in line with the desired state, simplifying infrasturecture management.
 
 **3: What are the key components of a Terraform configuration file?**
 ![alt text](image-2.png)
